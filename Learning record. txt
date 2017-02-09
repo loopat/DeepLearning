@@ -1,0 +1,11 @@
+Learing  note
+
+Date:
+2017.02.08
+
+1. Code step
+(1) Initial weights
+(2) Calculate one gradient descent setp for each weight
+    Calculate output of neural network
+(3) Calcaulte error of neural network
+(4) Calculate change in weights[learnrate * error * deractive)
