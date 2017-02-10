@@ -9,3 +9,7 @@ Date:
     Calculate output of neural network
 (3) Calcaulte error of neural network
 (4) Calculate change in weights[learnrate * error * deractive)
+
+2017.02.09
+1. "It turns out, using a sigmoid as the activation function results in the same formulation as logistic regression."
+2. "Once you start using activation functions that are continuous and differentiable, it's possible to train the network using gradient descent."
