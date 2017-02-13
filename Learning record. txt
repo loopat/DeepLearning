@@ -13,3 +13,15 @@ Date:
 2017.02.09
 1. "It turns out, using a sigmoid as the activation function results in the same formulation as logistic regression."
 2. "Once you start using activation functions that are continuous and differentiable, it's possible to train the network using gradient descent."
+
+2017.02.13
+1. Collections Counter()
+(1) from collections import Counter
+A. https://docs.python.org/2/library/collections.html
+B. "A Counter is a dict subclass for counting hashable objects. 
+C. It is an unordered collection [where elements are stored as dictionary keys] and [their counts are stored as dictionary values]. 
+D. Counts are allowed to be any integer value including zero or negative counts. The Counter class is similar to bags or multisets in other languages."
+(2) most_common([n])
+A. "Return a list of the n most common elements and their counts from the most common to the least. 
+B. If n is omitted or None, most_common() returns all elements in the counter. 
+Elements with equal counts are ordered arbitrarily:"
