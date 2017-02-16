@@ -25,3 +25,14 @@ D. Counts are allowed to be any integer value including zero or negative counts.
 A. "Return a list of the n most common elements and their counts from the most common to the least. 
 B. If n is omitted or None, most_common() returns all elements in the counter. 
 Elements with equal counts are ordered arbitrarily:"
+
+
+2017.02.16
+1. Remove the repeate elements
+   1.1 views = set()
+       views.add()
+       list(views) 
+2. >>> np.zeros((2, 1))
+    array([[ 0.],
+           [ 0.]])
+3. 2**4 = 16
